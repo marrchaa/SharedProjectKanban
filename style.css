@@ -1,0 +1,76 @@
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+  background-color: #f2f2f2;
+  padding: 25px;
+}
+#popupBoxOnePosition{
+	top: 0; left: 0; position: fixed; width: 100%; height: 120%;
+	background-color: rgba(0,0,0,0.7); display: none;
+}
+.popupBoxWrapper{
+width: 550px; margin: 50px auto; text-align: left;
+}
+.popupBoxContent{
+background-color: #FFF; padding: 15px; 
+}
+body{
+    margin:0;
+    padding:0;
+    background-color:#f6f6f6;
+   }
+table {
+  width: 100%;
+ }
+table th {
+  width: 50%;
+ }
+.box {
+  width:100%;
+  padding:20px;
+  background-color:#fff;
+  border:1px solid #ccc;
+  border-radius:5px;
+  margin-top:25px;
+ }
+#page_list li {
+  padding:16px;
+  background-color:#f9f9f9;
+  border:1px dotted #ccc;
+  cursor:move;
+  margin-top:12px;
+ }
+
+#page_list1 li {
+padding:16px;
+background-color:#f9f9f9;
+border:1px dotted #ccc;
+cursor:move;
+margin-top:12px;
+}
+#page_list2 li {
+padding:16px;
+background-color:#f9f9f9;
+border:1px dotted #ccc;
+cursor:move;
+margin-top:12px;
+}
+#page_list3 li {
+padding:16px;
+background-color:#f9f9f9;
+border:1px dotted #ccc;
+cursor:move;
+margin-top:12px;
+}
+#page_list li.ui-state-highlight {
+padding:24px;
+background-color:#ffffcc;
+border:1px dotted #ccc;
+cursor:move;
+margin-top:12px;
+}
