@@ -34,7 +34,7 @@
 	<div id="popupBoxOnePosition">
 			<div class="popupBoxWrapper">
 				<div class="popupBoxContent">
-					<h3>Projektu pievienosana</h3>
+					<h3>Projektu pievienosanas forma</h3>
 					<p>Pievienojiet projekta autoru nosaukumu aprakstu</p>
 					
 					<form action="add_project.php">
