@@ -29,7 +29,7 @@
 
 <body>
 
-<h1>Projektu pievienosana</h1>
+<h1>Projektu pievienosanas forma</h1>
 	
 	<div id="popupBoxOnePosition">
 			<div class="popupBoxWrapper">
